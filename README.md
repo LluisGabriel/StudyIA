@@ -1,2 +1,5 @@
-# StudyIA
-Desde resumir textos y corregir gramática hasta generar imágenes y resolver dudas, StudyAI es la herramienta definitiva para potenciar tu aprendizaje.
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
